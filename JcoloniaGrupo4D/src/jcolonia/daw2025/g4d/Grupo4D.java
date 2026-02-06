@@ -1,7 +1,7 @@
 /** 
  * UT4: Ejemplo de repaso y estuctura base pra pruebas JUnit y excepciones.
  * 
- *  @author Josué
+ *  @author Josué Mateos
  *  @version 1.0
  */ 
 package jcolonia.daw2025.g4d;
@@ -120,3 +120,4 @@ public class Grupo4D {
 		return resultado;
 	}
 }
+
